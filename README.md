@@ -9,7 +9,7 @@
 
 
 
-###### Començando com o git
+###### Começando com o git
 
 Course 01 🚀    | Course 02 🚀 🚀 
 -----------------------------------  | ---------------  
@@ -21,7 +21,7 @@ Course 01 🚀    | Course 02 🚀 🚀
  `Usando commits anteriores`	      | *Sobre o rebase Git* 🔓
  `Gerenciar repositório remotos`      | ********** 🔒
  `Desfazendo alterações` 		      | ********** 🔒
- `terminaçoes de linhas` 		      | ********** 🔒
+ `terminações de linhas` 		      | ********** 🔒
 
 
 
@@ -52,7 +52,7 @@ Course 01 🚀    | Course 02 🚀 🚀
 
 ### Geral
 
-As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\Leonardo ou *nix /home/leonardo).
+As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\Leonardo ou *nix /home/Joao).
 
 As configurações realizadas através dos comandos abaixo serão incluídas no arquivo citado acima.
 
