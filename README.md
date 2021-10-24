@@ -36,19 +36,11 @@ Course 01 🚀    | Course 02 🚀 🚀
 # Ajuda
 
 ##### Geral
-- [ ] Marcar com um x
-- [ ] https://github.com/JPGSilva
-- [ ] git-commands
 	
 ##### Comando específico
 	git help add
 	git help commit
-	git help <qualquer_comando_git>
-	
-
-	
-	
-	
+	git help <qualquer_comando_git>	
 
 ## Configuração
 
