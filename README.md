@@ -25,6 +25,8 @@ Course 01 🚀    | Course 02 🚀 🚀
 
 
 
+https://img.shields.io/github/languages/count/JPGSilva/git-command?style=for-the-badge
+
 ## Estados
 
 * Modificado (modified);
